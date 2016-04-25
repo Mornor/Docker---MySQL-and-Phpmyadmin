@@ -1,5 +1,5 @@
 <h3>Docker compose MySQL database and Phpmyadmin</h3>
-<h3> Create 2 Docker containers: 
+<h3> Create 2 Docker containers: </h3> 
 <ul>
 	<li> MySQL database: latest version. </li>
 	<li> Phpmyadmin: latest version. </li>
