@@ -7,6 +7,7 @@
 
 <b>Usage</b> <br> 
 docker-compose up -d <br>
-localhost:8080 to access Phpmyadmin instance. <br> <br>
+localhost:8080 to access Phpmyadmin instance. <br>
+MySQL credentials: see <i>docker-compose.yml</i>
 <b>Requirements</b> <br>
 <i>docker-compose version 1.7.0 or above</i>
